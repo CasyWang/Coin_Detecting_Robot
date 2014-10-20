@@ -12,9 +12,11 @@ Detecting one jiao/five jiao/one yuan coins using makeblock's scara robot ARM.
 
 ###Online Video
 
-[Youku](http://v.youku.com/v_show/id_XODA0MDU3OTgw.html)
+* [Watch it on Youku](http://v.youku.com/v_show/id_XODA0MDU3OTgw.html)
 
 ###Contribute
+
+MIT licence
 
 Any kinds of contribute from the community is warmly welcomed.
 
