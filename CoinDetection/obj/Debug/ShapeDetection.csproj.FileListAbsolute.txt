@@ -1,0 +1,9 @@
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\bin\Emgu.CV.License.txt
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\bin\pic3.png
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\bin\Example.ShapeDetection.exe
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\bin\Example.ShapeDetection.pdb
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.MainForm.resources
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\ShapeDetection\obj\Debug\Example.ShapeDetection.exe
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\ShapeDetection\obj\Debug\Example.ShapeDetection.pdb
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
+D:\OpenCV-Lib\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
